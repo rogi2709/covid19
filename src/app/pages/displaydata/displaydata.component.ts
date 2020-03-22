@@ -73,7 +73,8 @@ import{CovidapiService}from 'src/core/service/covidapi.service';
                 display: table-cell;
             }
         }
-    `]
+        `]
+  
 })
 export class DisplaydataComponent implements OnInit {
 
@@ -110,5 +111,4 @@ export class DisplaydataComponent implements OnInit {
 
 
 }
-
 }
